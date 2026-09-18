@@ -1,2 +1,2 @@
 # GC2026Proj
-Projet fil rouge 2026 2027
+Projet fil rouge Gaming Campus M1 2026 2027
