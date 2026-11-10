@@ -18,3 +18,9 @@ poser un cube qui va se figer
 parfait pour construire un escalier
 <img width="1920" height="1080" alt="Capture d’écran 2026-11-10 142709" src="https://github.com/user-attachments/assets/9455b712-2931-4cae-b5f4-e28e24a90c1c" />
 
+Respawn et destruction des objets en cas de chute:
+
+https://github.com/user-attachments/assets/04388c8b-af4c-4318-ace1-ca68c412fdc2
+
+
+
