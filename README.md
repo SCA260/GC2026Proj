@@ -9,18 +9,26 @@ J'ai créée un projet et ait récupéré un système de grab, que j'ai modifié
 
 Il y a aussi des bugs et glitch à corriger, je dois trouver une solution pour le fait de porter l'objet en dessous de soit, qui permet de s'envoler au dessus de la map, tout en permettant de monter dessus lorsqu'il est posé (pont passerelle)
 
-Distributeur de cubes et planches
+Distributeur de cubes et planches:
 <img width="1920" height="1080" alt="Capture d’écran 2026-11-10 140010" src="https://github.com/user-attachments/assets/66403185-6ae0-4b8d-aeb7-67958d54d0cd" />
 
-poser un cube qui va se figer
+poser un cube qui va se figer:
 <img width="1920" height="1080" alt="Capture d’écran 2026-11-10 142644" src="https://github.com/user-attachments/assets/a87e9ffb-6bb9-4783-b416-55e42fe506b6" />
 
-parfait pour construire un escalier
+parfait pour construire un escalier:
 <img width="1920" height="1080" alt="Capture d’écran 2026-11-10 142709" src="https://github.com/user-attachments/assets/9455b712-2931-4cae-b5f4-e28e24a90c1c" />
 
 Respawn et destruction des objets en cas de chute:
 
 https://github.com/user-attachments/assets/04388c8b-af4c-4318-ace1-ca68c412fdc2
 
+Lancer d'objet:
+
+https://github.com/user-attachments/assets/0c84e798-fc66-4885-b53c-84f7fc0faf5f
+
+suppression d'un item:
+https://github.com/user-attachments/assets/df0c00da-269d-4753-b47c-2ca1f9f55942
+
+Ajouter des objets interactibles: marteau, grappin etc...
 
 
